@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul  9 10:49:53 2020
+'''from impport math trunc
+num = float(input('Digite um valor:'))
+print('O valor digitado foi {}e a porção inteira {}'.format(num, trunc(num)))
+num = float(input('Digite um valor: ')))'''
 
-@author: dmagela
-"""
-
-
+num = float(input('Digite um valor:'))
+print('O valor digitado foi {} e a porção inteira é {}'.format(num, int(num)))
+      
